@@ -8,4 +8,8 @@ output/
 .env
 results/
 *.wav
+<<<<<<< Updated upstream
 *.mp4
+=======
+*.mp4
+>>>>>>> Stashed changes
