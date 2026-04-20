@@ -6,3 +6,6 @@ output/
 *.wav
 *.mp4
 .env
+results/
+*.wav
+*.mp4
